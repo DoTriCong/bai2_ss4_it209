@@ -7,6 +7,6 @@ Phiên bản hiện tại: 2.0 - Đã bổ sung tính năng cập nhật hồ s�
 ## Mục tiêu thực hành
 
 - Tạo và chuyển đổi giữa các nhánh cục bộ.
-- Tạo xung đột khi hai nhánh cùng sửa một dòng.
+- Tạo xung đột khi hai nhánh cùng sửa một dòng .
 - Giải quyết thủ công các dấu `<<<<<<<`, `=======`, `>>>>>>>`.
 - Hoàn tất một merge commit có hai nhánh tổ tiên.
